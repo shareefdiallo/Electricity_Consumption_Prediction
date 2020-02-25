@@ -1,0 +1,9 @@
+We expect from candidates a runnable Python script that summarize the data analysis of the dataset. 
+
+The script should include comments that explain the methodology. 
+
+We expect a balance between performance, methodology, explanation, code quality and usability, suitable for a real world data science implementations.
+
+Python is preferred but R is accepted.
+
+See "challenge_description.txt" for the dataset and challenge explanation.
